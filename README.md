@@ -1,4 +1,7 @@
 # tynasol.github.io
+
+[Реферат ](https://github.com/stankin/design-2019/wiki/exam_06)     
+
 [Лабораторная работа 1](https://tynasol.github.io/)
 
 [Лабораторная работа 2](https://tynasol.github.io/)
